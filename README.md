@@ -1,10 +1,10 @@
 ### Olá, sou Haline Dugolin Ceccato
 
-- ⚒️ Sou **geológa** pela Universidade Federal do Pampa (UNIPAMPA); 
+- ⚒️ Sou **geóloga** pela Universidade Federal do Pampa (UNIPAMPA); 
 - 🎓 **Mestra** em Engenharia Civil pela Universidade Federal de Santa Maria (UFSM); 
-- ⌛ Atualmente **doutoranda** pela Universidade Federal de Santa Maria (UFSM). 
+- ⌛ Atualmente **doutoranda** em Engenharia Civil pela Universidade Federal de Santa Maria (UFSM). 
 
-- 💡 Tenho interesse pela área da Ciência da computação, com foco em **Processamento Digital de Imagem**, tema da pesquisa de doutorado. 
+- 💡 Tenho interesse pela área da Ciência da computação, com foco em **Processamento Digital de Imagem**, tema que abordarei na tese de doutorado. 
   
  ## 
   <div style="display: inline_block">
