@@ -7,9 +7,9 @@
 - 💡 Tenho interesse pela área da Ciência da computação, com foco em **Processamento Digital de Imagem**, tema da pesquisa de doutorado. 
 
 <div align="center">
-  <a href="https://github.com/halicececcato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halicececcatoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halicececcato&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/halinecececcato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halinecececcato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halinecececcato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
