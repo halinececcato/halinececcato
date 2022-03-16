@@ -4,7 +4,7 @@
 - ⚙️ **Mestra** em Engenharia Civil pela Universidade Federal de Santa Maria (UFSM); 
 - ⌛ Atualmente **doutoranda** pela Universidade Federal de Santa Maria (UFSM). 
 
-- 💡 Tenho interesse pela área da Ciência da computação, com foco em **Processamento Digital de Imagem**, foco da pesquisa de doutorado. 
+- 💡 Tenho interesse pela área da Ciência da computação, com foco em **Processamento Digital de Imagem**, tema da pesquisa de doutorado. 
 
 <div align="center">
   <a href="https://github.com/halicececcato">
